@@ -27,6 +27,12 @@ And simply use it:
 ```html
 <Cursor  color="green"  mixBlendMode="exlusion"  size={13}  />
 ```
+To use hover effects, you can simply add a ```.hoverable``` class to the element you want to apply the effect to.
+```html
+<div  class="hoverable">
+    <h1>Hover me!</h1>
+</div>
+```
 
 ## Customization
 

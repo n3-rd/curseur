@@ -22,7 +22,7 @@
 				x = e.clientX;
 				y = e.clientY;
 			});
-			const hoverables = document.querySelectorAll('.hoverable');
+			const hoverables = document.querySelectorAll('.hoverable, a, button');
 			hoverables.forEach((hoverable) => {
 				hoverable.addEventListener('mouseenter', () => {
 					size += 20;
@@ -64,5 +64,8 @@
 
 	.custom-cursor.square {
 		border-radius: 0;
+	}
+	.cursor-none {
+		cursor: none;
 	}
 </style>
