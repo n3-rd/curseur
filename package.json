@@ -1,6 +1,6 @@
 {
 	"name": "curseur",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"description": "An elegant custom sveltekit cursor",
 	"keywords": [
 		"components",
