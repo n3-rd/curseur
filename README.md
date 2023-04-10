@@ -34,6 +34,7 @@ To use hover effects, you can simply add a ```.hoverable``` class to the element
 </div>
 ```
 
+
 ## Customization
 
 - `size`: Number - The size of the cursor. (Default: `20`)
