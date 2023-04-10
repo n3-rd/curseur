@@ -1,6 +1,6 @@
 {
 	"name": "curseur",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "An elegant custom sveltekit cursor",
 	"keywords": [
 		"components",
@@ -59,8 +59,5 @@
 	},
 	"svelte": "./dist/index.js",
 	"types": "./dist/index.d.ts",
-	"type": "module",
-	"dependencies": {
-		"curseur": "^0.0.1"
-	}
+	"type": "module"
 }
