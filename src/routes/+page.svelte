@@ -1,5 +1,5 @@
 <script>
-	import { Cursor } from '$lib';
+	import { Cursor } from 'curseur';
 	const mySize = 52;
 </script>
 
