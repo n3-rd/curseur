@@ -1,6 +1,6 @@
 {
 	"name": "curseur",
-	"version": "0.0.7",
+	"version": "0.0.8",
 	"description": "An elegant custom sveltekit cursor",
 	"keywords": [
 		"components",
@@ -9,7 +9,7 @@
 		"cursor",
 		"elegant"
 	],
-	"homepage": "#",
+	"homepage": "https://curseur.vercel.app/",
 	"license": "MIT",
 	"author": {
 		"name": "Godwin Jemegah",
