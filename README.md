@@ -3,6 +3,10 @@
 
 Svelte component for creating customizable cursors.
 
+![npm](https://img.shields.io/npm/dw/curseur?style=for-the-badge) ![GitHub repo size](https://img.shields.io/github/repo-size/n3-rd/curseur?style=for-the-badge) ![GitHub top language](https://img.shields.io/github/languages/top/n3-rd/curseur?style=for-the-badge) ![npm](https://img.shields.io/npm/v/curseur?style=for-the-badge)
+
+![enter image description here](https://i.ibb.co/SQGMwnw/CURSEUR-1.png)
+
 ## Installation
 NPM
 ```bash
